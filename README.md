@@ -1,5 +1,3 @@
-[![Extraindo valor em dados](https://raw.githubusercontent.com/aasouzaconsult/portfolio-dados/master/assets/extraindo-valor-em-dados.png)](https://omestredosdados.com.br/portfolio)
-
 # Olá! Eu sou o Alex Souza 👋
 
 **Liderança em Dados · Professor · Mentor · Criador de conteúdo**
